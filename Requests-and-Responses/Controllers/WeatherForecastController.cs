@@ -24,11 +24,11 @@ namespace Requests_and_Responses.Controllers
         }
 
         [HttpGet]
-        // public IActionResult Get()
-        // {
-        //     var headers = base.Request.Headers;
-        //     return base.Ok(headers);
-        // }
+        public IActionResult Get()
+        {
+            var headers = base.Request.Headers;
+            return base.Ok(headers);
+        }
         public IActionResult GetQuery()
         {
             var queries = base.Request.QueryString;

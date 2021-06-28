@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\requests-and-Responses\\Requests-and-Responses.csproj": {}
+    "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\Requests-and-Responses\\Requests-and-Responses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\requests-and-Responses\\Requests-and-Responses.csproj": {
+    "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\Requests-and-Responses\\Requests-and-Responses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\requests-and-Responses\\Requests-and-Responses.csproj",
+        "projectUniqueName": "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\Requests-and-Responses\\Requests-and-Responses.csproj",
         "projectName": "Requests-and-Responses",
-        "projectPath": "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\requests-and-Responses\\Requests-and-Responses.csproj",
+        "projectPath": "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\Requests-and-Responses\\Requests-and-Responses.csproj",
         "packagesPath": "C:\\Users\\CDelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\requests-and-Responses\\obj\\",
+        "outputPath": "C:\\Users\\CDelo\\Nelnet_projects\\Requests-and-Responses\\Requests-and-Responses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CDelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
